@@ -1,0 +1,2 @@
+mintapi==1.18
+slackweb==1.0.5
